@@ -7,9 +7,9 @@ Eu sou a **Ariane**.
   
   
   
-<a href='https://aridsm.github.io/portfolio/'><img src='https://github.com/aridsm/aridsm/blob/main/website.svg' width='30px' display='inline-block'/></a>
-<a href='mailto:arianemorelato@gmail.com'><img src='https://github.com/aridsm/aridsm/blob/main/email.svg' width='30px' display='inline-block'/></a>
-<a href='https://www.instagram.com/arianemorelt/'><img src='https://github.com/aridsm/aridsm/blob/main/instagram.svg' width='30px' display='inline-block'/></a>
+<a href='https://aridsm.github.io/portfolio/'><img src='https://github.com/aridsm/aridsm/blob/main/website.svg' width='30px' display='inline-block' margin='0 10px'/></a>
+<a href='mailto:arianemorelato@gmail.com'><img src='https://github.com/aridsm/aridsm/blob/main/email.svg' width='30px' display='inline-block' margin='0 10px'/></a>
+<a href='https://www.instagram.com/arianemorelt/'><img src='https://github.com/aridsm/aridsm/blob/main/instagram.svg' width='30px' display='inline-block' margin='0 10px'/></a>
   
   
   
