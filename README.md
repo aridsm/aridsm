@@ -1,6 +1,5 @@
 <div style="text-align: center;">
 <img src='https://github.com/aridsm/aridsm/blob/main/logo.svg' alt='logo' width='100px' margin='0 auto'/>
-</div>
 
 Oi! Bem vindo(a)! 👋
 Eu sou a **Ariane**.
@@ -25,3 +24,4 @@ Desenvolvedora front-end e web designer com conhecimento em HTML, CSS, JavaScrip
 ### Portfolio
 
 https://aridsm.github.io/portfolio/
+</div>
