@@ -1,17 +1,13 @@
 <div style="text-align: center;">
-<img src='https://github.com/aridsm/aridsm/blob/main/logo.svg' alt='logo' width='100px'/>
+<img src='https://github.com/aridsm/aridsm/blob/main/logo.svg' alt='logo' width='100px' margin='0 auto'/>
 </div>
 
 Oi! Bem vindo(a)! 👋
 Eu sou a **Ariane**.
   
-  
-  
-<a href='https://aridsm.github.io/portfolio/'><img src='https://github.com/aridsm/aridsm/blob/main/website.svg' width='30px' display='inline-block' margin='0 10px'/></a>
-<a href='mailto:arianemorelato@gmail.com'><img src='https://github.com/aridsm/aridsm/blob/main/email.svg' width='30px' display='inline-block' margin='0 10px'/></a>
-<a href='https://www.instagram.com/arianemorelt/'><img src='https://github.com/aridsm/aridsm/blob/main/instagram.svg' width='30px' display='inline-block' margin='0 10px'/></a>
-  
-  
+<a href='https://aridsm.github.io/portfolio/'><img src='https://github.com/aridsm/aridsm/blob/main/website.svg' width='30px' display='inline-block'/></a>
+<a href='mailto:arianemorelato@gmail.com'><img src='https://github.com/aridsm/aridsm/blob/main/email.svg' width='30px' display='inline-block'/></a>
+<a href='https://www.instagram.com/arianemorelt/'><img src='https://github.com/aridsm/aridsm/blob/main/instagram.svg' width='30px' display='inline-block'/></a>
   
 ### Sobre mim
 Desenvolvedora front-end e web designer com conhecimento em HTML, CSS, JavaScript, Sass e atualmente focada na biblioteca React js.
