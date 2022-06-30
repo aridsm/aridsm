@@ -1,5 +1,6 @@
-
-![logo](https://github.com/aridsm/aridsm/blob/main/logo.svg)
+<div style="text-align: center;">
+<img src='https://github.com/aridsm/aridsm/blob/main/logo.svg' alt='logo' width='100px'/>
+</div>
 
 Oi! Bem vindo(a)! 👋
 Eu sou a **Ariane**.
