@@ -7,7 +7,7 @@ Eu sou a **Ariane**.
 <a href='https://aridsm.github.io/portfolio/' display='block'>
 <img src='https://github.com/aridsm/aridsm/blob/main/website.svg' width='15px' display='inline-block'/>
   https://aridsm.github.io/portfolio
-</a>  
+</a>\
   
 <a href='mailto:arianemorelato@gmail.com'>
 <img src='https://github.com/aridsm/aridsm/blob/main/email.svg' width='15px' display='inline-block'/> 
