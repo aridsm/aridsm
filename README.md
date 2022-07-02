@@ -4,9 +4,18 @@
 Oi! Bem vindo(a)! 👋
 Eu sou a **Ariane**.
   
-<a href='https://aridsm.github.io/portfolio/'><img src='https://github.com/aridsm/aridsm/blob/main/website.svg' width='30px' display='inline-block'/></a>
-<a href='mailto:arianemorelato@gmail.com'><img src='https://github.com/aridsm/aridsm/blob/main/email.svg' width='30px' display='inline-block'/></a>
-<a href='https://www.instagram.com/arianemorelt/'><img src='https://github.com/aridsm/aridsm/blob/main/instagram.svg' width='30px' display='inline-block'/></a>
+<a href='https://aridsm.github.io/portfolio/'>
+<img src='https://github.com/aridsm/aridsm/blob/main/website.svg' width='20px' display='inline-block'/>
+<p>https://aridsm.github.io/portfolio</p>
+</a>
+<a href='mailto:arianemorelato@gmail.com'>
+<img src='https://github.com/aridsm/aridsm/blob/main/email.svg' width='20px' display='inline-block'/>
+<p>arianemorelato@gmail.com</p>
+</a>
+<a href='https://www.instagram.com/arianemorelt/'>
+<img src='https://github.com/aridsm/aridsm/blob/main/instagram.svg' width='20px' display='inline-block'/>
+<p>@arianemorelt</p>
+</a>
   
 ### Sobre mim
 Desenvolvedora front-end e web designer com conhecimento em HTML, CSS, JavaScript, Sass e atualmente focada na biblioteca React js.
