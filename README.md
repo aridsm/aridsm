@@ -5,16 +5,19 @@ Oi! Bem vindo(a)! 👋
 Eu sou a **Ariane**.
   
 <a href='https://aridsm.github.io/portfolio/' display='block'>
+**Portfolio:**
 <img src='https://github.com/aridsm/aridsm/blob/main/website.svg' width='15px' display='inline-block'/>
   https://aridsm.github.io/portfolio
 </a>|
   
 <a href='mailto:arianemorelato@gmail.com'>
+**Email:**
 <img src='https://github.com/aridsm/aridsm/blob/main/email.svg' width='15px' display='inline-block'/> 
   arianemorelato@gmail.com
 </a>|
   
 <a href='https://www.instagram.com/arianemorelt/'>
+**Instagram:**
 <img src='https://github.com/aridsm/aridsm/blob/main/instagram.svg' width='15px' display='inline-block' margin-right: '20px'/>
   @arianemorelt
 </a>
@@ -31,8 +34,4 @@ Desenvolvedora front-end e web designer com conhecimento em HTML, CSS, JavaScrip
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
-### Portfolio
-
-https://aridsm.github.io/portfolio/
 </div>
