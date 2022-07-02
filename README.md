@@ -4,7 +4,7 @@
 Oi! Bem vindo(a)! 👋
 Eu sou a **Ariane**.
   
-<a href='https://aridsm.github.io/portfolio/'>
+<a href='https://aridsm.github.io/portfolio/' display='flex'>
 <img src='https://github.com/aridsm/aridsm/blob/main/website.svg' width='15px' display='inline-block'/>
 <p>https://aridsm.github.io/portfolio</p>
 </a>
