@@ -4,12 +4,7 @@
 Oi! Bem vindo(a)! 👋
 Eu sou a **Ariane**.
   
-<img src='https://github.com/aridsm/aridsm/blob/main/website.svg' width='15px' display='inline-block'/>  
-  [Portfolio](https://aridsm.github.io/portfolio/)
-  
-<img src='https://github.com/aridsm/aridsm/blob/main/email.svg' width='15px' display='inline-block'/> 
- 
-<img src='https://github.com/aridsm/aridsm/blob/main/instagram.svg' width='15px' display='inline-block'/>  
+[Portfolio](https://aridsm.github.io/portfolio/)
   
 ### Sobre mim
 Desenvolvedora front-end e web designer com conhecimento em HTML, CSS, JavaScript, Sass e atualmente focada na biblioteca React js.
