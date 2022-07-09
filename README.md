@@ -5,6 +5,8 @@ Oi! Bem vindo(a)! 👋
 Eu sou a **Ariane**.
   
 [Portfolio](https://aridsm.github.io/portfolio/)
+[Email](mailto:arianemorelato@gmail.com)
+[Instagram](https://www.instagram.com/arianemorelt/)
   
 ### Sobre mim
 Desenvolvedora front-end e web designer com conhecimento em HTML, CSS, JavaScript, Sass e atualmente focada na biblioteca React js.
