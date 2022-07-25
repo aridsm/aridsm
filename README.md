@@ -22,7 +22,3 @@ Desenvolvedora front-end e web designer com conhecimento em HTML, CSS, JavaScrip
 ![Figma](https://img.shields.io/badge/figma-%238B26C1.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-
-### Portfolio
-
-https://aridsm.github.io/portfolio/ (Em construçao)
