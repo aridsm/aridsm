@@ -6,11 +6,9 @@ Eu sou a **Ariane**.
   
 ### Entre em contato
   [Email](mailto:arianemorelato@gmail.com)  |
-  [Instagram](https://www.instagram.com/arianemorelt/)
+  [Instagram](https://www.instagram.com/arianemorelt/) | 
+  [Linkedin](https://www.linkedin.com/in/ariane-morelato/)
   
-### Sobre mim
-Desenvolvedora front-end e web designer com conhecimento em HTML, CSS, JavaScript, Sass e atualmente focada na biblioteca React js.
-
 ### Linguagens e ferramentas
 
 ![React](https://img.shields.io/badge/react-%2320ADD4.svg?style=for-the-badge&logo=react&logoColor=white)
